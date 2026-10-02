@@ -63,3 +63,8 @@ Lab4-Analog-PWM-DAC/
     ├── example3.cpp    # Analog Input Reading (GPIO 34)
     ├── example4.cpp    # LED PWM Dimming (GPIO 19)
     └── example5.cpp    # DAC Output Generation (GPIO 25)
+```
+---
+
+## Laboratory Demonstration
+https://drive.google.com/drive/folders/1wrWAnmnJ7MWS8m70YYQ9kyIzV3OJyWDB?usp=sharing
